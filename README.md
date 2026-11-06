@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm thatyoungWizard and 
+
+- 🌱 I’m currently learning Python on freecodecamp and I finished the Big O Notation block today, on 6th Nov '26.
+- 🔭 I’m currently working on a Budget Tracker, that can save the collected Data to a CSV file.
+- ⚡ Fun fact: I'm having a good time when coding, even though I am not studying anything related to IT. Can speak English, Japanese, German.
+- 🎧🎵 Currently hyped on: YOASOBI - IDOL
